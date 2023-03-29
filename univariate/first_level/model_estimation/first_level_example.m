@@ -1,6 +1,14 @@
 %-----------------------------------------------------------------------
-% SMGS first-level analysis
+% SMGS first-level analysis example
+% By: Linjing Jiang
+% Date: 03/29/2023
+
+% To do the first-level analysis, make sure you have the
+% preproc_bold_mgs1.nii.gz and preproc_bold_mgs2.nii.gz files under the
+% 'data' folder. You can get these files from Linjing directly (email me!)
+
 clear
+close all
 clc
 
 %% First define some parameters

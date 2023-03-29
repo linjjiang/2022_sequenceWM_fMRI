@@ -18,6 +18,8 @@
 
 % The files you don't need:
 % preprocessed bold image: preproc_bold_mgs1.nii.gz, preproc_bold_mgs2.nii.gz
+% You will need these files during first-level analysis. Ask Linjing for
+% these files directly!
 % You don't need actual brain data to check the design matrix! It means
 % that you can do this step during the experimental design phase when the
 % data has not yet been collected. If you do this, then you don't need
