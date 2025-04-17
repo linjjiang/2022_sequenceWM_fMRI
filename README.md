@@ -1,4 +1,4 @@
-# Representational Geometry of Visuospatial Sequences in Occipital and Parietal Cortex: An fMRI Study
+# Representational Geometry of Visuospatial Sequences: An fMRI Study
 
 This is an fMRI Study I conducted as part of my Ph.D. dissertation: [Behavioral and Neural Correlates of Serial-Order Spatial Working Memory](https://www.proquest.com/docview/3123663226?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 
