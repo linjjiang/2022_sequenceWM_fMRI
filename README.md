@@ -6,9 +6,11 @@ We are preparing a manuscript to be submitted to a peer reviewed journal.
 
 ## Description
 
-This study explored how the implicit structure of visuospatial sequences is encoded and maintained in the dorsal visual pathway.
+This study explored how the implicit structure of visuospatial sequences is encoded and maintained in the human brain.
 
 In two fMRI experiments, we collected fMRI data from nine healthy young adults during a serial-order memory-guided saccade task with varying structures of visuospatial sequences. We applied representational similarity analysis on GLM-modeled fMRI data, integrated bootstrapped cross-validation and noise covariance modeling for robust pattern estimation and generalization. 
+
+Our analysis revealed distinguishable neural activity patterns for memorized sequences with distinct spatial and temporal structures. This finding suggests that human brain constantly processes the incoming sequential visual inputs according to its spatiotemporal structure, even when such structure is not explicitly required to perform the task at hand. 
 
 This repo contains the scripts used to perform RSA on fMRI timeseries, after preprocessing and GLM:
 * make_roi: make different sets of ROI for RSA
